@@ -1,0 +1,3 @@
+Median is: 102
+Time taken: 101 milliseconds
+
