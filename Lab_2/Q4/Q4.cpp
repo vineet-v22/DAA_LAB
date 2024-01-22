@@ -57,7 +57,7 @@ int main() {
     }
     else
     {
-        output_file <<"Median is: "<< A[n / 2] + A[n / 2 + 1] << endl;
+        output_file <<"Median is: "<< (A[n / 2] + A[n / 2 + 1])/2 << endl;
     }
     
     auto end_time = high_resolution_clock::now();
