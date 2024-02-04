@@ -1,0 +1,3 @@
+The number of inversions are: 2503053751
+Time taken: 97 milliseconds
+
